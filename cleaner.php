@@ -1,8 +1,6 @@
 <?php
 /*
-/* Nirvana Yazılım
-/* 20.05.2022 - 11:44
-/* anil.gonca@nirvanayazilim.com
+/* anilgnca@gmail.com
 /* Table Clear for ci_sessions
 */
 date_default_timezone_set('Europe/Istanbul');
